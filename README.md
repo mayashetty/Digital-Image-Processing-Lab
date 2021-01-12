@@ -176,4 +176,4 @@ cv2.destroyAllWindows()
 
 ```
 ***output:***
-
+![](op21.png)
