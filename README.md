@@ -248,3 +248,5 @@ print ("Summed neighbors matrix:\n", N)
 
 ```
 ***output:***
+![](op22.png)
+---
