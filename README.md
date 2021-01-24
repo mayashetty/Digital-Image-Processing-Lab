@@ -384,3 +384,20 @@ return 0;
 }
 
 ```
+***OUTPUT***
+
+Enter the row and column size for the matrix 2 2
+
+Enter the elements of the matrix 6 7 8 9
+
+Enter the row and column size for the matrix 2 2
+
+Enter the elements of the matrix 1 2 3 4
+
+addition is 7 9 11 13
+
+subtraction is 5 5 5 5
+
+multiplication is 27 40 35 52
+
+---
